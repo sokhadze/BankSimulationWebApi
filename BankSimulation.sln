@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankSimulation", "BankSimulation\BankSimulation.csproj", "{978E3277-A39D-4889-B6AC-F9F1ACAE0A6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALModels", "DALModels\DALModels.csproj", "{8EFB41C4-F9DF-4B2D-89F7-6080A79FB113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{7E0D3B53-3488-42C3-9493-FA07A6AD33E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{978E3277-A39D-4889-B6AC-F9F1ACAE0A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{978E3277-A39D-4889-B6AC-F9F1ACAE0A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{978E3277-A39D-4889-B6AC-F9F1ACAE0A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFB41C4-F9DF-4B2D-89F7-6080A79FB113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFB41C4-F9DF-4B2D-89F7-6080A79FB113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFB41C4-F9DF-4B2D-89F7-6080A79FB113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFB41C4-F9DF-4B2D-89F7-6080A79FB113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E0D3B53-3488-42C3-9493-FA07A6AD33E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0D3B53-3488-42C3-9493-FA07A6AD33E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0D3B53-3488-42C3-9493-FA07A6AD33E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0D3B53-3488-42C3-9493-FA07A6AD33E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
